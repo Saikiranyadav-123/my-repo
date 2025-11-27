@@ -39,7 +39,7 @@ Feel free to modify and experiment with this code!
 #this is line i added
 #checking gothub scm poling to check this adding thos
 
-    checking this bustard
+    checking this checking poll scm 
 
 
 
